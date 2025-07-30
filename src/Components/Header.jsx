@@ -29,7 +29,7 @@ const Header = () => {
             }}
             onClick={() => navigate("/")}
           >
-            Crypto Hunter
+            Crypto Friend
           </Typography>
 
           <Select

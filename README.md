@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><strong>Crypto Hunter</strong></h1>
+<h1><strong>Crypto Friend</strong></h1>
 
 <h2>
   <a href="https://crypto-hunter-4q4my78sw-asinghrajput542.vercel.app/">Live URL</a>
@@ -8,7 +8,7 @@
 </div>
 
 
-Crypto Hunter is dashboard of cryptocurrencies and their information using Coingecko APIs.
+Crypto Friend is dashboard of cryptocurrencies and their information using Coingecko APIs.
 
 
 ## :star: Features
