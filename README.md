@@ -38,7 +38,7 @@ Crypto Friend is dashboard of cryptocurrencies and their information using Coing
 Our landing page, on your initial visit, seamlessly integrates a currency selector (INR/USD) with a top 10 cryptocurrency carousel for valuable market cap insights. Additionally, you'll find a concise list of available cryptocurrencies.
 
 ----
-![home](https://github.com/asinghrajput542/Images/blob/main/ch-home.jpg)
+![home](https://github.com/KartikAdlakhia/CryptoFriend/blob/master/public/LandingPage.png)
 
 
 ### :small_blue_diamond: List of Cryptocurrency 
